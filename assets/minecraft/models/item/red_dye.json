@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/red_dye"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":2834500}, "model": "amogus_plush:item/amogus_plush"}
+	
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stone_pickaxe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "copper_items:item/copper_pickaxe/copper_pickaxe"},
+		{"predicate": {"custom_model_data":2}, "model": "copper_items:item/copper_pickaxe/copper_pickaxe1"},
+		{"predicate": {"custom_model_data":3}, "model": "copper_items:item/copper_pickaxe/copper_pickaxe2"},
+		{"predicate": {"custom_model_data":4}, "model": "copper_items:item/copper_pickaxe/copper_pickaxe3"},
+		{"predicate": {"custom_model_data":5}, "model": "copper_items:item/copper_pickaxe/copper_pickaxe4"}
+	]
+}

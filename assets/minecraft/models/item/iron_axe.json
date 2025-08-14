@@ -1,0 +1,19 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_axe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "copper_items:item/copper_axe/copper_axe"},
+		{"predicate": {"custom_model_data":2}, "model": "copper_items:item/copper_axe/copper_axe1"},
+		{"predicate": {"custom_model_data":3}, "model": "copper_items:item/copper_axe/copper_axe2"},
+		{"predicate": {"custom_model_data":4}, "model": "copper_items:item/copper_axe/copper_axe3"},
+		{"predicate": {"custom_model_data":5}, "model": "copper_items:item/copper_axe/copper_axe4"},
+		{"predicate": {"custom_model_data":2834500}, "model": "battle_hammer:item/battle_hammer"},
+		{"predicate": {"custom_model_data":3024000}, "model": "double_blades:item/iron_double_blade"},
+		{"predicate": {"custom_model_data":3024001}, "model": "double_blades:item/copper_double_blade"},
+        {"predicate": {"custom_model_data":5875100}, "model": "hand_axes:item/iron_hand_axe"},
+        {"predicate": {"custom_model_data":5875101}, "model": "hand_axes:item/copper_hand_axe"}
+	]
+}

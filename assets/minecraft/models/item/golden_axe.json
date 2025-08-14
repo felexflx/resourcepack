@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_axe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":3024000}, "model": "double_blades:item/golden_double_blade"},
+            {"predicate": {"custom_model_data":5875100}, "model": "hand_axes:item/golden_hand_axe"}
+	]
+}

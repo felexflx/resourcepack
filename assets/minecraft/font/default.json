@@ -1,0 +1,59 @@
+{
+    "providers":[
+        {
+            "chars": [
+                "𠉝"
+            ],
+            "file":"font/icon/logo.png",
+            "height": 80,
+            "ascent": 40,
+            "type":"bitmap"
+        },
+        {
+            "chars": [
+                "𭤋"
+            ],
+            "file":"font/icon/serveree.png",
+            "ascent": 8,
+            "height": 8,
+            "type":"bitmap"
+        },
+        {
+            "chars": [
+                "𠂬"
+            ],
+            "file": "font/icon/limbo.png",
+            "ascent": 8,
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "𠂠"
+            ],
+            "file": "font/icon/pingee.png",
+            "ascent": 8,
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                "𠂡"
+            ],
+            "file": "font/icon/onlinee.png",
+            "ascent": 8,
+            "height": 8,
+            "type": "bitmap"
+        }
+    ,
+        {
+            "chars": [
+                "䋡"
+            ],
+            "file": "font/icon/tpsee.png",
+            "ascent": 8,
+            "height": 8,
+            "type": "bitmap"
+        }
+    ]
+}

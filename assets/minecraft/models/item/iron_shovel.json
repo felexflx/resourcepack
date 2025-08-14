@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_shovel"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "copper_items:item/copper_shovel/copper_shovel"},
+		{"predicate": {"custom_model_data":2}, "model": "copper_items:item/copper_shovel/copper_shovel1"},
+		{"predicate": {"custom_model_data":3}, "model": "copper_items:item/copper_shovel/copper_shovel2"},
+		{"predicate": {"custom_model_data":4}, "model": "copper_items:item/copper_shovel/copper_shovel3"},
+		{"predicate": {"custom_model_data":5}, "model": "copper_items:item/copper_shovel/copper_shovel4"}
+	]
+}

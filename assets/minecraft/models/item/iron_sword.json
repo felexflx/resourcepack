@@ -1,0 +1,30 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "copper_items:item/copper_sword/copper_sword"},
+		{"predicate": {"custom_model_data":2}, "model": "copper_items:item/copper_sword/copper_sword1"},
+		{"predicate": {"custom_model_data":3}, "model": "copper_items:item/copper_sword/copper_sword2"},
+		{"predicate": {"custom_model_data":4}, "model": "copper_items:item/copper_sword/copper_sword3"},
+		{"predicate": {"custom_model_data":5}, "model": "copper_items:item/copper_sword/copper_sword4"},
+		{"predicate": {"custom_model_data":8}, "model": "katanas:item/iron_katana_strong"},
+		{"predicate": {"custom_model_data":9}, "model": "katanas:item/iron_katana"},
+		{"predicate": {"custom_model_data":10}, "model": "katanas:item/copper_katana_strong"},
+		{"predicate": {"custom_model_data":11}, "model": "katanas:item/copper_katana"},
+		{"predicate": {"custom_model_data":12}, "model": "daggers:item/iron_dagger"},
+		{"predicate": {"custom_model_data":13}, "model": "daggers:item/copper_dagger"},
+		{"predicate": {"custom_model_data":108}, "model": "katanas_old:item/iron_katana"},
+		{"predicate": {"custom_model_data":109}, "model": "katanas_old:item/iron_katana"},
+		{"predicate": {"custom_model_data":110}, "model": "katanas_old:item/copper_katana"},
+		{"predicate": {"custom_model_data":111}, "model": "katanas_old:item/copper_katana"},
+		{"predicate": {"custom_model_data":200}, "model": "scythes:item/iron_scythe"},
+		{"predicate": {"custom_model_data":210}, "model": "scythes:item/copper_scythe"},
+		{"predicate": {"custom_model_data":148500}, "model": "karambits:item/iron_karambit"},
+		{"predicate": {"custom_model_data":148501}, "model": "karambits:item/copper_karambit"},
+		{"predicate": {"custom_model_data":3005890}, "model": "claymores:item/iron_claymore"},
+		{"predicate": {"custom_model_data":3005891}, "model": "claymores:item/copper_claymore"}
+	]
+}

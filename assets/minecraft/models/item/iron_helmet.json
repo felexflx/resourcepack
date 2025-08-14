@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_helmet"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "copper_items:item/copper_helmet/copper_helmet"},
+		{"predicate": {"custom_model_data":2}, "model": "copper_items:item/copper_helmet/copper_helmet1"},
+		{"predicate": {"custom_model_data":3}, "model": "copper_items:item/copper_helmet/copper_helmet2"},
+		{"predicate": {"custom_model_data":4}, "model": "copper_items:item/copper_helmet/copper_helmet3"},
+		{"predicate": {"custom_model_data":5}, "model": "copper_items:item/copper_helmet/copper_helmet4"}
+	]
+}

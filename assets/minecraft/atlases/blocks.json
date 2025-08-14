@@ -1,0 +1,21 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "trims/items/leggings_trim",
+        "trims/items/chestplate_trim",
+        "trims/items/helmet_trim",
+        "trims/items/boots_trim"
+      ],
+      "palette_key": "trims/color_palettes/trim_palette",
+      "permutations": {
+        "custom_copper": "copper_armor:trims/color_palettes/custom_copper",
+        "custom_copper_exposed": "copper_armor:trims/color_palettes/custom_copper_exposed",
+        "custom_copper_weathered": "copper_armor:trims/color_palettes/custom_copper_weathered",
+        "custom_copper_oxidized": "copper_armor:trims/color_palettes/custom_copper_oxidized",
+        "custom_copper_damaged": "copper_armor:trims/color_palettes/custom_copper_damaged"
+      }
+    }
+  ]
+}

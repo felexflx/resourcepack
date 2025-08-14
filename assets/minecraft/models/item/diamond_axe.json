@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_axe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":3024000}, "model": "double_blades:item/diamond_double_blade"},
+		{"predicate": {"custom_model_data":5875100}, "model": "hand_axes:item/diamond_hand_axe"}
+	]
+}

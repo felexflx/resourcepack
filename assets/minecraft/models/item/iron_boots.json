@@ -1,0 +1,15 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_boots"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "copper_items:item/copper_boots/copper_boots"},
+		{"predicate": {"custom_model_data":2}, "model": "copper_items:item/copper_boots/copper_boots1"},
+		{"predicate": {"custom_model_data":3}, "model": "copper_items:item/copper_boots/copper_boots2"},
+		{"predicate": {"custom_model_data":4}, "model": "copper_items:item/copper_boots/copper_boots3"},
+		{"predicate": {"custom_model_data":5}, "model": "copper_items:item/copper_boots/copper_boots4"}
+
+	]
+}

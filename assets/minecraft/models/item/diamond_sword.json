@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":8}, "model": "katanas:item/diamond_katana_strong"},
+		{"predicate": {"custom_model_data":9}, "model": "katanas:item/diamond_katana"},
+		{"predicate": {"custom_model_data":10}, "model": "daggers:item/diamond_dagger"},
+		{"predicate": {"custom_model_data":108}, "model": "katanas_old:item/diamond_katana"},
+		{"predicate": {"custom_model_data":109}, "model": "katanas_old:item/diamond_katana"},
+		{"predicate": {"custom_model_data":200}, "model": "scythes:item/diamond_scythe"},
+		{"predicate": {"custom_model_data":148500}, "model": "karambits:item/diamond_karambit"},
+		{"predicate": {"custom_model_data":3005890}, "model": "claymores:item/diamond_claymore"}
+			]
+}

@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stone_sword"
+	},
+	
+	"overrides": [
+
+		{"predicate": {"custom_model_data":8}, "model": "katanas:item/stone_katana_strong"},
+		{"predicate": {"custom_model_data":9}, "model": "katanas:item/stone_katana"},
+		{"predicate": {"custom_model_data":108}, "model": "katanas_old:item/stone_katana"},
+		{"predicate": {"custom_model_data":109}, "model": "katanas_old:item/stone_katana"}
+			]
+}
